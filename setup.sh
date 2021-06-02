@@ -23,7 +23,7 @@ sudo apt purge gstreamer1.0-fluendo-mp3 deja-dup shotwell whoopsie whoopsie-pref
 # Remove snaps and get packages from apt:
 
 sudo snap remove gnome-characters gnome-calculator gnome-system-monitor
-sudo apt install gnome-characters gnome-calculator gnome-system-monitor \
+sudo apt install gnome-characters gnome-calculator gnome-system-monitor
 
 # Install Chromium:
 sudo apt install chromium-browser
